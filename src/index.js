@@ -4,3 +4,5 @@ import "bootstrap/dist/css/bootstrap.css";
 import App from "./app"
 
 reactDom.render(<App/>, document.getElementById('root'))
+
+console.log('Hello World');
